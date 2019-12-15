@@ -12,6 +12,11 @@ Exercise during which learners of Class Six of the *Passerelle Numérique* must 
  
 ## Warnings 
 
+**Instructions for adding your photo** 
+ 1. go to the learners page of the site [passerelle-numérique.fr](https://passerelle-numerique.fr/apprenants/)
+ 2. get the link to YOUR photo
+ 3. add this link as a src of your <img>tag 
+
 ## TODO
 
 After your PR, you can correct errors on the site
